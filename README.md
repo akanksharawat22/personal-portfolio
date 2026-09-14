@@ -11,7 +11,7 @@ https://akanksharawat22.github.io/personal-portfolio/
 ## Featured Projects
 
 - **ResumeLens** — A resume analysis tool built with Python, Flask, and the Google Gemini API on the backend, and React + Vite on the frontend. Features ATS match scoring, skill gap analysis, resume rewriting suggestions, and PDF export.
-- **Trenova** — An e-commerce website.
+- Trenova — An e-commerce website.
 
 ## Tech Stack
 
